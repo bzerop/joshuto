@@ -73,31 +73,31 @@ ts = [
 ## video formats
 avi = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 av1 = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 flv = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 mkv = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 m4v = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 mov = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 mp4 = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 webm = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 wmv = [
 	{ command = "mpv", args = [ "--" ] , fork = true, silent = true },
-	{ command = "mediainfo", confirm_exit = true },
+	{ command = "mediainfo", confirm_exit = true } ]
 
 ## text formats
 build = [
